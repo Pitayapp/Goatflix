@@ -16,8 +16,16 @@ body {
         justify-content: start;
         align-items: center;
 
-        img {
-            margin-left: 1.5rem;
+        .logoGoats {
+            display: flex;
+
+            img {
+                margin-left: 1.5rem;
+            }
+
+            svg {
+                font-size: 5rem;
+            }
         }
     }
 
